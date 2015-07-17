@@ -8,5 +8,5 @@ I am a muppet with ninja skills, yo!
 * muppet html
 * muppet javascript
 * muppet photoshop
-
+* Killing history using git rebase
 * and stuff!
