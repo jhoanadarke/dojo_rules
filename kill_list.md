@@ -1,6 +1,6 @@
 Kill List
 =========
-* <i>O-Ren Ishii</i>
-* Vernita Green<span></span>
-* elle driver 
-* var person  = bill
+* <i>snap</i>
+* <span>vg<</span>
+* <p>this is a code block</p> 
+* var person  = william
